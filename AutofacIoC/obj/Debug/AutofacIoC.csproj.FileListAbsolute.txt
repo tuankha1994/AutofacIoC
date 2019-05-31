@@ -1,0 +1,11 @@
+E:\Demo\AutofacIoC\AutofacIoC\bin\Debug\AutofacIoC.exe.config
+E:\Demo\AutofacIoC\AutofacIoC\bin\Debug\AutofacIoC.exe
+E:\Demo\AutofacIoC\AutofacIoC\bin\Debug\AutofacIoC.pdb
+E:\Demo\AutofacIoC\AutofacIoC\bin\Debug\Autofac.dll
+E:\Demo\AutofacIoC\AutofacIoC\bin\Debug\Autofac.pdb
+E:\Demo\AutofacIoC\AutofacIoC\bin\Debug\Autofac.xml
+E:\Demo\AutofacIoC\AutofacIoC\obj\Debug\AutofacIoC.csprojAssemblyReference.cache
+E:\Demo\AutofacIoC\AutofacIoC\obj\Debug\AutofacIoC.csproj.CoreCompileInputs.cache
+E:\Demo\AutofacIoC\AutofacIoC\obj\Debug\AutofacIoC.csproj.CopyComplete
+E:\Demo\AutofacIoC\AutofacIoC\obj\Debug\AutofacIoC.exe
+E:\Demo\AutofacIoC\AutofacIoC\obj\Debug\AutofacIoC.pdb
